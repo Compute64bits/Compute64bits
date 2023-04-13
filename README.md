@@ -14,7 +14,7 @@
   
 <div style="display: flex; direction: row;">
   <a href="https://github.com/Loyerss"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://discord.gg/wWmDuxNHNG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/JUWK7GEzTG"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     	
   
   ![Snake animation](https://github.com/Loyerss/Loyerss/blob/output/github-contribution-grid-snake.svg)
