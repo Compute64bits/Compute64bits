@@ -4,19 +4,19 @@
 
 ```console
 
-compute64bits@debian:~$ neofetch
- ,_     _            loyerss@debian
- |\\_,-~/            ------------
- / _  _ |    ,--.    User: loyerss
-(  @  @ )   / ,-'    Age: 17y
- \  _T_/-._( (       Skills:
- /         `. \        • Python
-|         _  \ |       • HTML/CSS/JS
- \ \ ,  /      |       • C++
-  || |-_\__   /      Languages: FR, AN
- ((_/`(____,-'
+Compute64bits@TempleOS:~$ neofetch
+ ,_     _            Compute64bits@TempleOS
+ |\\_,-~/            ----------------------
+ / _  _ |    ,--.    User: Compute64bits
+(  @  @ )   / ,-'    Age: 17 years
+ \  _T_/-._( (       
+ /         `. \      Skills:
+|         _  \ |       • Python  • C++
+ \ \ ,  /      |       • HTML/CSS/JS
+  || |-_\__   /      
+ ((_/`(____,-'       Languages: FR, AN
 
-compute64bits@debian:~$
+Compute64bits@TempleOS:~$
 ```
 
 <br>
