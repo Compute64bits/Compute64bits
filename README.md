@@ -1,4 +1,23 @@
-### Hi, I'm Loyerss 👋
+### Hi, I'm Loyerss 👋 
+
+<br>
+
+```console
+
+loyerss@mypc:~$ neofetch
+ ,_     _            loyerss@mypc
+ |\\_,-~/            ------------
+ / _  _ |    ,--.    User: loyerss
+(  @  @ )   / ,-'    Age: 17y
+ \  _T_/-._( (       Skills:
+ /         `. \        • Python
+|         _  \ |       • HTML/CSS/JS
+ \ \ ,  /      |       • C++
+  || |-_\__   /      Language: FR, AN
+ ((_/`(____,-' 
+```
+
+<br>
 
 <div align="center">
     <a href="https://github.com/Loyerss">
