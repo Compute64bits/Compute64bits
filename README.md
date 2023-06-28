@@ -13,7 +13,7 @@ loyerss@mypc:~$ neofetch
  /         `. \        • Python
 |         _  \ |       • HTML/CSS/JS
  \ \ ,  /      |       • C++
-  || |-_\__   /      Language: FR, AN
+  || |-_\__   /      Languages: FR, AN
  ((_/`(____,-'
 
 loyerss@mypc:~$
