@@ -4,7 +4,7 @@
 
 ```console
 
-compute64bits@mypc:~$ neofetch
+compute64bits@debian:~$ neofetch
  ,_     _            loyerss@mypc
  |\\_,-~/            ------------
  / _  _ |    ,--.    User: loyerss
@@ -16,7 +16,7 @@ compute64bits@mypc:~$ neofetch
   || |-_\__   /      Languages: FR, AN
  ((_/`(____,-'
 
-compute64bits@mypc:~$
+compute64bits@debian:~$
 ```
 
 <br>
