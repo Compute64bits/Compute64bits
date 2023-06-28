@@ -14,7 +14,9 @@ loyerss@mypc:~$ neofetch
 |         _  \ |       • HTML/CSS/JS
  \ \ ,  /      |       • C++
   || |-_\__   /      Language: FR, AN
- ((_/`(____,-' 
+ ((_/`(____,-'
+
+loyerss@mypc:~$
 ```
 
 <br>
