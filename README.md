@@ -4,7 +4,7 @@
 
 ```console
 
-loyerss@mypc:~$ neofetch
+compute64bits@mypc:~$ neofetch
  ,_     _            loyerss@mypc
  |\\_,-~/            ------------
  / _  _ |    ,--.    User: loyerss
@@ -16,7 +16,7 @@ loyerss@mypc:~$ neofetch
   || |-_\__   /      Languages: FR, AN
  ((_/`(____,-'
 
-loyerss@mypc:~$
+compute64bits@mypc:~$
 ```
 
 <br>
