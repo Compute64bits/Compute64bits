@@ -23,8 +23,8 @@ Compute64bits@TempleOS:~$
 
 <div align="center">
     <a href="https://github.com/Loyerss">
-    <img height="180em" src="https://github-readme-stats.loyerss.vercel.app/api?username=Loyerss&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img width="332px" height="180em" src="https://github-readme-stats.loyerss.vercel.app/api/top-langs/?username=Loyerss&layout=compact&langs_count=16&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.loyerss.vercel.app/api?username=Compute64bits&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img width="332px" height="180em" src="https://github-readme-stats.loyerss.vercel.app/api/top-langs/?username=Compute64bits&layout=compact&langs_count=16&theme=react"/>
 
 <br>
 
