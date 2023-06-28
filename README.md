@@ -5,7 +5,7 @@
 ```console
 
 compute64bits@debian:~$ neofetch
- ,_     _            loyerss@mypc
+ ,_     _            loyerss@debian
  |\\_,-~/            ------------
  / _  _ |    ,--.    User: loyerss
 (  @  @ )   / ,-'    Age: 17y
