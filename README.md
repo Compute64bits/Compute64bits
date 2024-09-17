@@ -5,16 +5,19 @@
 ```console
 
 Compute64bits@TempleOS:~$ neofetch
- ,_     _            Compute64bits@TempleOS
- |\\_,-~/            ----------------------
- / _  _ |    ,--.    User: Compute64bits
-(  @  @ )   / ,-'    Age: 18 years
- \  _T_/-._( (       
- /         `. \      Skills:
-|         _  \ |       • Python  • C++
- \ \ ,  /      |       • HTML/CSS/JS
-  || |-_\__   /      
- ((_/`(____,-'       Languages: FR, AN
+
+   //_\\_
+ ."\\    ".        Compute64bits@Life
+/          \       ----------------------
+|           \_     User: Compute64bits
+|       ,--.-.)    Age: 18 years
+ \     /  o \o\
+ /\/\  \    /_/    Skills:
+  (_.   `--'__)       • Python  
+   |     .-'  \       • HTML/CSS/JS
+   |  .-'.     )      • C++
+   | (  _/--.-'
+   |  `.___.'      Languages: FR, AN
 
 Compute64bits@TempleOS:~$
 ```
