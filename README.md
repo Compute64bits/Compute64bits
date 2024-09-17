@@ -4,7 +4,7 @@
 
 ```console
 
-Compute64bits@TempleOS:~$ neofetch
+Compute64bits@life:~$ neofetch
 
    //_\\_          Compute64bits@life
  ."\\    ".        ----------------------
@@ -19,7 +19,7 @@ Compute64bits@TempleOS:~$ neofetch
    | (  _/--.-'
    |  `.___.'      Languages: FR, AN
 
-Compute64bits@TempleOS:~$
+Compute64bits@life:~$
 ```
 
 <br>
