@@ -6,11 +6,11 @@
 
 Compute64bits@TempleOS:~$ neofetch
 
-   //_\\_
- ."\\    ".        Compute64bits@Life
-/          \       ----------------------
-|           \_     User: Compute64bits
-|       ,--.-.)    Age: 18 years
+   //_\\_          Compute64bits@life
+ ."\\    ".        ----------------------
+/          \       User: Compute64bits
+|           \_     Age: 18 years
+|       ,--.-.)    Discord: @72g
  \     /  o \o\
  /\/\  \    /_/    Skills:
   (_.   `--'__)       • Python  
